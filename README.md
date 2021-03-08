@@ -12,10 +12,15 @@ This README.md consists of Connect4 game implementation for two players.
  
 Logic : 
 i) Connect4.java, which is having main method & calls desired methods from Board1.java
+
 ii)Creating board of 6*7 char[][] grid = new char[6][7] to Establishing a playing board with Red & Yellow inputs at a time
+
 iii)Creating board of 6*7 by implementing method "public static void display(char[][] grid)"
+
 iv) Verifying coloum is full or not by implementing method "public static boolean validate(int column, char[][] grid)"
+
 v) Checking Winner conditions as per below points by implementing "public static boolean isWinner(char player, char[][] grid)"
+
   a) check for consecutive 4 red/yellow pieces across grid
   b) check for 4 up and down consecutive same pieces
   c) check upward diagonal 4 consecutive same pieces 
