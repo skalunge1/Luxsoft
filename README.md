@@ -52,4 +52,4 @@ v) Checking Winner conditions as per below points by implementing "public static
   iii) ReadInput.jave : Created to run the executable jar & pass the inputs from connectFourInput.properties
   
  **Note** : Successfully created executable jar & read the inputs from connectFourInput.properties file.
- However, running executable via program & passing inputs at run time from connectFourInput.properties is not completed as I tried but could not finish it.
+ However, running executable via program & passing inputs at run time from connectFourInput.properties is not completed as I tried but could not finish it on time.
